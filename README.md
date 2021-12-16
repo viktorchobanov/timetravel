@@ -16,4 +16,4 @@ In order to run the unit tests, you have to run the React code first with `npm s
 
 ## Screenshots from the application
 
-![Time Travel Screenshot](https://github.com/viktorchobanov/timetravel/blob/master/assets/images/screenshots/timetravel.png?raw=true "Time Travel Screenshot")
+![Time Travel Screenshot](https://github.com/viktorchobanov/timetravel/blob/master/public/assets/images/screenshots/timetravel.png "Time Travel Screenshot")
